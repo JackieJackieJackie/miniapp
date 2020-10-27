@@ -1,0 +1,2 @@
+uni.dcloud.io.uniplugin_richalert
+string app_name
